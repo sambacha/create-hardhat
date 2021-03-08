@@ -1,6 +1,6 @@
 {
   "name": "create-hardhat",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "create-hardhat dapp ",
   "main": "bin/create-hardhat.js",
   "bin": {
